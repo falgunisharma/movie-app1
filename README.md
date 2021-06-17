@@ -1,13 +1,13 @@
 # Screenshorts
 
 ## movie list
-![Movie List](https://github.com/falgunisharma/movie-app1/screenshots/list.png)
+![alt text](https://github.com/falgunisharma/movie-app1/blob/main/screenshots/list.png)
 
 ## add movies
-![Movie List](https://github.com/falgunisharma/movie-app1/screenshots/addmovie.png)
+![alt text](https://github.com/falgunisharma/movie-app1/blob/main/screenshots/addmovie.png)
 
 ## update movie
-![Movie List](https://github.com/falgunisharma/movie-app1/screenshots/update.png)
+![alt text](https://github.com/falgunisharma/movie-app1/blob/main/screenshots/update.png)
 
 ## delete movie
-![Movie List](https://github.com/falgunisharma/movie-app1/screenshots/delete.png)
+![alt text](https://github.com/falgunisharma/movie-app1/blob/main/screenshots/delete.png)
